@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\furkan.terzi\\Desktop\\DotnetCoreBestPractices\\BestPractices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7307E3-C16F-46DD-84BD-9A2D42F3EA97}|BP\\BestPractices.Api\\BestPractices.Api.csproj|c:\\users\\furkan.terzi\\desktop\\dotnetcorebestpractices\\bestpractices\\bp\\bestpractices.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7307E3-C16F-46DD-84BD-9A2D42F3EA97}|BP\\BestPractices.Api\\BestPractices.Api.csproj|solutionrelative:bp\\bestpractices.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AF1E7D-1CC6-4606-A46A-B86176C2505D}|BP\\BP\\BestPractices.Api.Service\\BestPractices.Api.Service.csproj|c:\\users\\furkan.terzi\\desktop\\dotnetcorebestpractices\\bestpractices\\bp\\bp\\bestpractices.api.service\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AF1E7D-1CC6-4606-A46A-B86176C2505D}|BP\\BP\\BestPractices.Api.Service\\BestPractices.Api.Service.csproj|solutionrelative:bp\\bp\\bestpractices.api.service\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7307E3-C16F-46DD-84BD-9A2D42F3EA97}|BP\\BestPractices.Api\\BestPractices.Api.csproj|c:\\users\\furkan.terzi\\desktop\\dotnetcorebestpractices\\bestpractices\\bp\\bestpractices.api\\logging\\mycustomloggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7307E3-C16F-46DD-84BD-9A2D42F3EA97}|BP\\BestPractices.Api\\BestPractices.Api.csproj|solutionrelative:bp\\bestpractices.api\\logging\\mycustomloggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A213EBFA-C168-4DE4-9121-9AEF89F480C6}|BP\\BP\\BestPractices.Api.Data.Models\\BestPractices.Api.Data.Models.csproj|c:\\users\\furkan.terzi\\desktop\\dotnetcorebestpractices\\bestpractices\\bp\\bp\\bestpractices.api.data.models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A213EBFA-C168-4DE4-9121-9AEF89F480C6}|BP\\BP\\BestPractices.Api.Data.Models\\BestPractices.Api.Data.Models.csproj|solutionrelative:bp\\bp\\bestpractices.api.data.models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AF1E7D-1CC6-4606-A46A-B86176C2505D}|BP\\BP\\BestPractices.Api.Service\\BestPractices.Api.Service.csproj|c:\\users\\furkan.terzi\\desktop\\dotnetcorebestpractices\\bestpractices\\bp\\bp\\bestpractices.api.service\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AF1E7D-1CC6-4606-A46A-B86176C2505D}|BP\\BP\\BestPractices.Api.Service\\BestPractices.Api.Service.csproj|solutionrelative:bp\\bp\\bestpractices.api.service\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7307E3-C16F-46DD-84BD-9A2D42F3EA97}|BP\\BestPractices.Api\\BestPractices.Api.csproj|c:\\users\\furkan.terzi\\desktop\\dotnetcorebestpractices\\bestpractices\\bp\\bestpractices.api\\validations\\contactvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7307E3-C16F-46DD-84BD-9A2D42F3EA97}|BP\\BestPractices.Api\\BestPractices.Api.csproj|solutionrelative:bp\\bestpractices.api\\validations\\contactvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7307E3-C16F-46DD-84BD-9A2D42F3EA97}|BP\\BestPractices.Api\\BestPractices.Api.csproj|c:\\users\\furkan.terzi\\desktop\\dotnetcorebestpractices\\bestpractices\\bp\\bestpractices.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E7307E3-C16F-46DD-84BD-9A2D42F3EA97}|BP\\BestPractices.Api\\BestPractices.Api.csproj|solutionrelative:bp\\bestpractices.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7307E3-C16F-46DD-84BD-9A2D42F3EA97}|BP\\BestPractices.Api\\BestPractices.Api.csproj|c:\\users\\furkan.terzi\\desktop\\dotnetcorebestpractices\\bestpractices\\bp\\bestpractices.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E7307E3-C16F-46DD-84BD-9A2D42F3EA97}|BP\\BestPractices.Api\\BestPractices.Api.csproj|solutionrelative:bp\\bestpractices.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7307E3-C16F-46DD-84BD-9A2D42F3EA97}|BP\\BestPractices.Api\\BestPractices.Api.csproj|c:\\users\\furkan.terzi\\desktop\\dotnetcorebestpractices\\bestpractices\\bp\\bestpractices.api\\appsettings.test.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E7307E3-C16F-46DD-84BD-9A2D42F3EA97}|BP\\BestPractices.Api\\BestPractices.Api.csproj|solutionrelative:bp\\bestpractices.api\\appsettings.test.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7307E3-C16F-46DD-84BD-9A2D42F3EA97}|BP\\BestPractices.Api\\BestPractices.Api.csproj|c:\\users\\furkan.terzi\\desktop\\dotnetcorebestpractices\\bestpractices\\bp\\bestpractices.api\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7307E3-C16F-46DD-84BD-9A2D42F3EA97}|BP\\BestPractices.Api\\BestPractices.Api.csproj|solutionrelative:bp\\bestpractices.api\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7307E3-C16F-46DD-84BD-9A2D42F3EA97}|BP\\BestPractices.Api\\BestPractices.Api.csproj|c:\\users\\furkan.terzi\\desktop\\dotnetcorebestpractices\\bestpractices\\bp\\bestpractices.api\\extensions\\healthcheckconfigureextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7307E3-C16F-46DD-84BD-9A2D42F3EA97}|BP\\BestPractices.Api\\BestPractices.Api.csproj|solutionrelative:bp\\bestpractices.api\\extensions\\healthcheckconfigureextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7307E3-C16F-46DD-84BD-9A2D42F3EA97}|BP\\BestPractices.Api\\BestPractices.Api.csproj|c:\\users\\furkan.terzi\\desktop\\dotnetcorebestpractices\\bestpractices\\bp\\bestpractices.api\\extensions\\configuremappingprofileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7307E3-C16F-46DD-84BD-9A2D42F3EA97}|BP\\BestPractices.Api\\BestPractices.Api.csproj|solutionrelative:bp\\bestpractices.api\\extensions\\configuremappingprofileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyCustomLoggerProvider.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DotnetCoreBestPractices\\BestPractices\\BP\\BestPractices.Api\\Logging\\MyCustomLoggerProvider.cs",
+              "RelativeDocumentMoniker": "BP\\BestPractices.Api\\Logging\\MyCustomLoggerProvider.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DotnetCoreBestPractices\\BestPractices\\BP\\BestPractices.Api\\Logging\\MyCustomLoggerProvider.cs",
+              "RelativeToolTip": "BP\\BestPractices.Api\\Logging\\MyCustomLoggerProvider.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T05:55:29.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Test.json",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DotnetCoreBestPractices\\BestPractices\\BP\\BestPractices.Api\\appsettings.Test.json",
+              "RelativeDocumentMoniker": "BP\\BestPractices.Api\\appsettings.Test.json",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DotnetCoreBestPractices\\BestPractices\\BP\\BestPractices.Api\\appsettings.Test.json",
+              "RelativeToolTip": "BP\\BestPractices.Api\\appsettings.Test.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T05:50:31.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DotnetCoreBestPractices\\BestPractices\\BP\\BestPractices.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "BP\\BestPractices.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DotnetCoreBestPractices\\BestPractices\\BP\\BestPractices.Api\\appsettings.json",
+              "RelativeToolTip": "BP\\BestPractices.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T05:47:57.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DotnetCoreBestPractices\\BestPractices\\BP\\BestPractices.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BP\\BestPractices.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DotnetCoreBestPractices\\BestPractices\\BP\\BestPractices.Api\\appsettings.Development.json",
+              "RelativeToolTip": "BP\\BestPractices.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T05:46:20.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactValidator.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DotnetCoreBestPractices\\BestPractices\\BP\\BestPractices.Api\\Validations\\ContactValidator.cs",
+              "RelativeDocumentMoniker": "BP\\BestPractices.Api\\Validations\\ContactValidator.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DotnetCoreBestPractices\\BestPractices\\BP\\BestPractices.Api\\Validations\\ContactValidator.cs",
+              "RelativeToolTip": "BP\\BestPractices.Api\\Validations\\ContactValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T08:51:24.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConfigureMappingProfileExtension.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DotnetCoreBestPractices\\BestPractices\\BP\\BestPractices.Api\\Extensions\\ConfigureMappingProfileExtension.cs",
+              "RelativeDocumentMoniker": "BP\\BestPractices.Api\\Extensions\\ConfigureMappingProfileExtension.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DotnetCoreBestPractices\\BestPractices\\BP\\BestPractices.Api\\Extensions\\ConfigureMappingProfileExtension.cs",
+              "RelativeToolTip": "BP\\BestPractices.Api\\Extensions\\ConfigureMappingProfileExtension.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:25:38.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HealthCheckConfigureExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DotnetCoreBestPractices\\BestPractices\\BP\\BestPractices.Api\\Extensions\\HealthCheckConfigureExtensions.cs",
+              "RelativeDocumentMoniker": "BP\\BestPractices.Api\\Extensions\\HealthCheckConfigureExtensions.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DotnetCoreBestPractices\\BestPractices\\BP\\BestPractices.Api\\Extensions\\HealthCheckConfigureExtensions.cs",
+              "RelativeToolTip": "BP\\BestPractices.Api\\Extensions\\HealthCheckConfigureExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T06:21:28.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DotnetCoreBestPractices\\BestPractices\\BP\\BestPractices.Api\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "BP\\BestPractices.Api\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DotnetCoreBestPractices\\BestPractices\\BP\\BestPractices.Api\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "BP\\BestPractices.Api\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T06:05:09.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DotnetCoreBestPractices\\BestPractices\\BP\\BestPractices.Api\\Program.cs",
+              "RelativeDocumentMoniker": "BP\\BestPractices.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DotnetCoreBestPractices\\BestPractices\\BP\\BestPractices.Api\\Program.cs",
+              "RelativeToolTip": "BP\\BestPractices.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T06:04:04.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DotnetCoreBestPractices\\BestPractices\\BP\\BP\\BestPractices.Api.Data.Models\\Contact.cs",
+              "RelativeDocumentMoniker": "BP\\BP\\BestPractices.Api.Data.Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DotnetCoreBestPractices\\BestPractices\\BP\\BP\\BestPractices.Api.Data.Models\\Contact.cs",
+              "RelativeToolTip": "BP\\BP\\BestPractices.Api.Data.Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T06:01:25.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IContactService.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DotnetCoreBestPractices\\BestPractices\\BP\\BP\\BestPractices.Api.Service\\IContactService.cs",
+              "RelativeDocumentMoniker": "BP\\BP\\BestPractices.Api.Service\\IContactService.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DotnetCoreBestPractices\\BestPractices\\BP\\BP\\BestPractices.Api.Service\\IContactService.cs",
+              "RelativeToolTip": "BP\\BP\\BestPractices.Api.Service\\IContactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T05:57:40.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "C:\\Users\\furkan.terzi\\Desktop\\DotnetCoreBestPractices\\BestPractices\\BP\\BP\\BestPractices.Api.Service\\ContactService.cs",
+              "RelativeDocumentMoniker": "BP\\BP\\BestPractices.Api.Service\\ContactService.cs",
+              "ToolTip": "C:\\Users\\furkan.terzi\\Desktop\\DotnetCoreBestPractices\\BestPractices\\BP\\BP\\BestPractices.Api.Service\\ContactService.cs",
+              "RelativeToolTip": "BP\\BP\\BestPractices.Api.Service\\ContactService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T05:57:14.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

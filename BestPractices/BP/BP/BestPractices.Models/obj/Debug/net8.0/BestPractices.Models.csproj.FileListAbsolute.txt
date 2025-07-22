@@ -1,0 +1,11 @@
+C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BP\BestPractices.Models\bin\Debug\net8.0\BestPractices.Models.deps.json
+C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BP\BestPractices.Models\bin\Debug\net8.0\BestPractices.Models.dll
+C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BP\BestPractices.Models\bin\Debug\net8.0\BestPractices.Models.pdb
+C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BP\BestPractices.Models\obj\Debug\net8.0\BestPractices.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BP\BestPractices.Models\obj\Debug\net8.0\BestPractices.Models.AssemblyInfoInputs.cache
+C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BP\BestPractices.Models\obj\Debug\net8.0\BestPractices.Models.AssemblyInfo.cs
+C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BP\BestPractices.Models\obj\Debug\net8.0\BestPractices.Models.csproj.CoreCompileInputs.cache
+C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BP\BestPractices.Models\obj\Debug\net8.0\BestPractices.Models.dll
+C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BP\BestPractices.Models\obj\Debug\net8.0\refint\BestPractices.Models.dll
+C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BP\BestPractices.Models\obj\Debug\net8.0\BestPractices.Models.pdb
+C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BP\BestPractices.Models\obj\Debug\net8.0\ref\BestPractices.Models.dll

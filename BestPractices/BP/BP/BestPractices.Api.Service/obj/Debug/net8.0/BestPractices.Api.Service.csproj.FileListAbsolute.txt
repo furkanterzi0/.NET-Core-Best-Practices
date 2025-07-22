@@ -1,0 +1,17 @@
+C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BP\BestPractices.Api.Service\bin\Debug\net8.0\BestPractices.Api.Service.deps.json
+C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BP\BestPractices.Api.Service\bin\Debug\net8.0\BestPractices.Api.Service.dll
+C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BP\BestPractices.Api.Service\bin\Debug\net8.0\BestPractices.Api.Service.pdb
+C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BP\BestPractices.Api.Service\bin\Debug\net8.0\BestPractices.Api.Data.Models.dll
+C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BP\BestPractices.Api.Service\bin\Debug\net8.0\BestPractices.Models.dll
+C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BP\BestPractices.Api.Service\bin\Debug\net8.0\BestPractices.Api.Data.Models.pdb
+C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BP\BestPractices.Api.Service\bin\Debug\net8.0\BestPractices.Models.pdb
+C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BP\BestPractices.Api.Service\obj\Debug\net8.0\BestPractices.Api.Service.csproj.AssemblyReference.cache
+C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BP\BestPractices.Api.Service\obj\Debug\net8.0\BestPractices.Api.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BP\BestPractices.Api.Service\obj\Debug\net8.0\BestPractices.Api.Service.AssemblyInfoInputs.cache
+C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BP\BestPractices.Api.Service\obj\Debug\net8.0\BestPractices.Api.Service.AssemblyInfo.cs
+C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BP\BestPractices.Api.Service\obj\Debug\net8.0\BestPractices.Api.Service.csproj.CoreCompileInputs.cache
+C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BP\BestPractices.Api.Service\obj\Debug\net8.0\BestPrac.014ABC22.Up2Date
+C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BP\BestPractices.Api.Service\obj\Debug\net8.0\BestPractices.Api.Service.dll
+C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BP\BestPractices.Api.Service\obj\Debug\net8.0\refint\BestPractices.Api.Service.dll
+C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BP\BestPractices.Api.Service\obj\Debug\net8.0\BestPractices.Api.Service.pdb
+C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BP\BestPractices.Api.Service\obj\Debug\net8.0\ref\BestPractices.Api.Service.dll

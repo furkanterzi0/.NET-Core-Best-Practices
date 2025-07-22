@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mjvxnPrSVfzx0WU5lyQTS27LS3J3Sdu2n+W6tOdQUo4=",
+  "Source": "BestPractices.Api",
+  "BasePath": "_content/BestPractices.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

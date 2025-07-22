@@ -1,0 +1,32 @@
+2025-07-22 09:37:59.319 +03:00 [WRN] You do not have a valid license key for the Lucky Penny software AutoMapper. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2025-07-22 09:38:02.319 +03:00 [INF] Now listening on: https://localhost:7185
+2025-07-22 09:38:02.320 +03:00 [INF] Now listening on: http://localhost:5175
+2025-07-22 09:38:02.643 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-07-22 09:38:02.644 +03:00 [INF] Hosting environment: Test
+2025-07-22 09:38:02.644 +03:00 [INF] Content root path: C:\Users\furkan.terzi\Desktop\DotnetCoreBestPractices\BestPractices\BP\BestPractices.Api
+2025-07-22 09:38:03.918 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.html - null null
+2025-07-22 09:38:04.625 +03:00 [INF] No cached response available for this request.
+2025-07-22 09:38:04.721 +03:00 [INF] The response could not be cached for this request.
+2025-07-22 09:38:04.730 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.html - 404 0 null 823.6597ms
+2025-07-22 09:38:04.744 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7185/swagger/index.html, Response status code: 404
+2025-07-22 09:38:27.758 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/contact/1 - null null
+2025-07-22 09:38:27.845 +03:00 [INF] No cached response available for this request.
+2025-07-22 09:38:27.846 +03:00 [INF] Executing endpoint 'BestPractices.Api.Controllers.ContactController.GetContactById (BestPractices.Api)'
+2025-07-22 09:38:27.922 +03:00 [INF] Route matched with {action = "GetContactById", controller = "Contact"}. Executing controller action with signature BestPractices.Models.ContactDVO GetContactById(Int32) on controller BestPractices.Api.Controllers.ContactController (BestPractices.Api).
+2025-07-22 09:38:28.026 +03:00 [INF] Executing ObjectResult, writing value of type 'BestPractices.Models.ContactDVO'.
+2025-07-22 09:38:28.046 +03:00 [INF] Executed action BestPractices.Api.Controllers.ContactController.GetContactById (BestPractices.Api) in 119.1803ms
+2025-07-22 09:38:28.046 +03:00 [INF] Executed endpoint 'BestPractices.Api.Controllers.ContactController.GetContactById (BestPractices.Api)'
+2025-07-22 09:38:28.046 +03:00 [INF] The response has been cached.
+2025-07-22 09:38:28.048 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/contact/1 - 200 null application/json; charset=utf-8 290.5046ms
+2025-07-22 09:38:30.476 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7185/api/contact - null null
+2025-07-22 09:38:30.597 +03:00 [INF] No cached response available for this request.
+2025-07-22 09:38:30.598 +03:00 [INF] Executing endpoint 'BestPractices.Api.Controllers.ContactController.Get (BestPractices.Api)'
+2025-07-22 09:38:30.600 +03:00 [INF] Route matched with {action = "Get", controller = "Contact"}. Executing controller action with signature System.String Get() on controller BestPractices.Api.Controllers.ContactController (BestPractices.Api).
+2025-07-22 09:38:30.603 +03:00 [INF] LogInformation -> Get Method is called
+2025-07-22 09:38:30.603 +03:00 [WRN] LogWarning -> Get Method is called
+2025-07-22 09:38:30.603 +03:00 [ERR] LogError -> Get Method is called
+2025-07-22 09:38:30.603 +03:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2025-07-22 09:38:30.604 +03:00 [INF] Executed action BestPractices.Api.Controllers.ContactController.Get (BestPractices.Api) in 3.8692ms
+2025-07-22 09:38:30.604 +03:00 [INF] Executed endpoint 'BestPractices.Api.Controllers.ContactController.Get (BestPractices.Api)'
+2025-07-22 09:38:30.604 +03:00 [INF] The response could not be cached for this request.
+2025-07-22 09:38:30.605 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7185/api/contact - 200 null text/plain; charset=utf-8 128.9686ms
